@@ -1,6 +1,5 @@
-package track.M02;
 
-public class po1 {
+public class KodNest {
     public static void main(String[] args) {
         System.out.println("Hello KodNest");
     }
