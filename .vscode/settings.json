@@ -8,5 +8,6 @@
         "track/Java/M02/To2/proram1",
         "track/Java/M01-understanding-java/T01-programming-languages-and-java/M01-T01-ST01-L-welcome-to-java-track/work/src",
         "track/Java/M02/To2"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
