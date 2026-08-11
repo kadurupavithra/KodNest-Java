@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Student {
+class Student2 {
     int id;
     String name;
     String course;
@@ -12,7 +12,7 @@ public class Main2 {
 
         Scanner sc = new Scanner(System.in);
 
-        Student s1 = new Student();
+        Student2 s1 = new Student2();
 
         s1.id = sc.nextInt();
         sc.nextLine();
