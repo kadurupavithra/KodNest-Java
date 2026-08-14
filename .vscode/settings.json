@@ -7,8 +7,9 @@
         "track/Java/M02/To4",
         "track/Java/M02/To3",
         "track/Java/M02/To2",
+        "track/Java/M02/T05",
         "track/Java/M01-understanding-java/T01-programming-languages-and-java/M01-T01-ST01-L-welcome-to-java-track/work/src",
-        "track/Java/M02/T05"
+        "track/Javapractice/M02/To5"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
